@@ -150,7 +150,7 @@ function draw(){
 
 
   //tegner musen 
-  image(imgmus,imgmusx+mousexpos,imgmusy+mouseypos, 60,60)
+  image(imgmus,imgmusx+mousexpos,imgmusy+mouseypos, 40,40)
  
 
 
